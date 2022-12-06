@@ -16,6 +16,6 @@ image classification.
 Ini adalah kumpulan data yang terutama dibuat untuk klasifikasi citra. Kedua kelas berisi gambar dengan perbedaan warna yang sangat besar yang sangat membantu dalam klasifikasi gambar.
  
 ## Penjelasan Project
-mendeteksi apakah gambar tersebut termasuk gambar hutan atau padang pasir
+mendeteksi apakah gambar tersebut termasuk gambar hutan atau gurun
 
 ##Table of Content
