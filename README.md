@@ -9,8 +9,12 @@ tempat commit dan sharing untuk project akhir praktikum kecerdasan buatan
 https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 
 ## Penjelasan Dataset
-suatu dataset yang digunakan untuk mendeteksi hutan dan padang pasir
+This is a dataset mainly made for image classification. Both classes 
+contains images with huge amount of color difference which is helpful in
+image classification.
 
+Ini adalah kumpulan data yang terutama dibuat untuk klasifikasi citra. Kedua kelas berisi gambar dengan perbedaan warna yang sangat besar yang sangat membantu dalam klasifikasi gambar.
+ 
 ## Penjelasan Project
 mendeteksi apakah gambar tersebut termasuk gambar hutan atau padang pasir
 
