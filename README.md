@@ -1,7 +1,7 @@
 # PA_KB_A2_Kelompok9
 
-21091060 - Muhammad Novan.S.R (ketua & coding) \
-2109106044 - Riski Agung Romadhon (coding)
+2109106032 - Muhammad Novan.S.R (ketua, Data Collection-Evaluate) \
+2109106044 - Riski Agung Romadhon (Data Collection-Evaluate)
 
 tempat commit dan sharing untuk project akhir praktikum kecerdasan buatan
 
